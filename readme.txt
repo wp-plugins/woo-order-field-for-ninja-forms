@@ -15,6 +15,7 @@ Woocommerce Orders Dropdown field for Ninja form.
 
 This plugins adds Woocommerce Orders dropdown selection field for Ninja forms for logged in users, useful for support form.
 
+[youtube https://www.youtube.com/watch?v=VbUZwx0q-GQ]
 
 == Installation ==
 
